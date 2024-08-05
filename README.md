@@ -1,3 +1,3 @@
 # Shear Stress Analysis for Reinforced Concrete Beams using Machine Learning
 ## Abstract 
-Text
+Shear stress is a complex design feature of reinforced concrete beams. Accurately being able to make estimates based on this mechanic is crucial to the structural engineering domain. This paper details the analysis of shear stress failure within reinforced concrete beams applying multiple machine learning models to a dataset of 1278 reinforced concrete beams with 51 features. The focus of this analysis is to develop an accurate and robust model of the relationship beam features have with shear failure. Two classification models and seven regression models were designed to learn and predict the stress for individual subsets of beams. The machine learning predicted loading values were compared to those predicted using the American Concrete Institute standardized mechanical equation, and received varying results depending on beam class.
